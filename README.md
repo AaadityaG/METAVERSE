@@ -1,4 +1,4 @@
-## Meataverse (![Live](https://metaverse-six-kappa.vercel.app/))
+## Meataverse ([Live](https://metaverse-six-kappa.vercel.app/))
 A modern nextjs webapp with framer motion animations.
 
 ## Glimpse
