@@ -1,4 +1,4 @@
-## Metaverse ([Live](https://metaverse-six-kappa.vercel.app/))
+## Metaverse ([Live](https://metaverse-six-kappa.vercel.app/)) ([Video Demo](https://twitter.com/Dev_AdityaG/status/1756933961950122281))
 A modern nextjs webapp with framer motion animations.
 
 ## Glimpse
